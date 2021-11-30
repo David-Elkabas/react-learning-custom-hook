@@ -1,3 +1,8 @@
+# About
+
+a simple project for week two of learning react.
+in this project i created a custom hook called useFetchHook that fetch data from any url using the basic from react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
