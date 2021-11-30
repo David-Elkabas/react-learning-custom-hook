@@ -2,7 +2,7 @@ import UserID from "./components/UserNumber/UserNumber";
 import { useState} from "react"
 import {useFetchHook} from "./hooks/useFetchHook"
 import ShowUserData from "./components/ShowUserData/ShowUserData";
-2
+
 function App() {
   
   const [isSelected, setIsSelected] = useState(true)
